@@ -1,3 +1,5 @@
+//Stock market portfolio app by Andreas Sjöstedt madmud.studio
+
 //ctr+shift +arrow
 //ctrl+alt+arrow+type
 //ctrl+k+b
